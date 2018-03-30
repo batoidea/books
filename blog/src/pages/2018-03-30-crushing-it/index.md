@@ -1,5 +1,5 @@
 ---
-path: "crushing-it"
+path: "/crushing-it"
 date: "2018-03-30T18:41:18.165Z"
 title: "Resumen de Crushing it!"
 tags: ["Gary Vaynerchuk", "entrepreneurship"]
