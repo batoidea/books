@@ -8,9 +8,9 @@ import './index.css'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Libros de emprendimiento resumidos | Resumen de las mejores ideas"
+      title="Libros resumidos de emprendimiento  | Resumen de las mejores ideas de las mejores mentes."
       meta={[
-        { name: 'description', content: '' },
+        { name: 'description', content: 'Aquí encontrarás los puntos clave de los mejores libros de empresas, startups, productividad. Leyendo estos resumenes sacarás tu SUPER YO interior.' },
         { name: 'keywords', content: 'resumen, empredimiento, negocios, entrepreneur, dinero, éxito, libros, resumidos' },
       ]}
     />

@@ -1,3 +1,6 @@
+.background-main-color {
+  background-color: #01c5c3; }
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -40,7 +43,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
-  color: #264DFF; }
+  color: #01c5c3; }
 
 a:active,
 a:hover {

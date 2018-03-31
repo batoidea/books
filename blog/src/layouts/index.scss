@@ -1,3 +1,14 @@
+// colors
+$colorMain: #01c5c3;
+
+// general
+.background-main-color {
+  background-color: $colorMain;
+}
+
+
+
+// default
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -40,7 +51,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
-  color: #264DFF;
+  color: $colorMain;
 }
 a:active,
 a:hover {
