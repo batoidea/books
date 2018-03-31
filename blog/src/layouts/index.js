@@ -8,10 +8,10 @@ import './index.css'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Gatsby Default Starter"
+      title="Libros de emprendimiento resumidos | Resumen de las mejores ideas"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: '' },
+        { name: 'keywords', content: 'resumen, empredimiento, negocios, entrepreneur, dinero, éxito, libros, resumidos' },
       ]}
     />
     <Header />
